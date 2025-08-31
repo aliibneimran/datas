@@ -1,0 +1,96 @@
+[
+    
+    {
+        "category": "Software & Application Development",
+        "icon": "image/service/2.png",
+        "services": [
+            "Web application development",
+            "Mobile app development (iOS, Android)",
+            "Desktop software development",
+            "API integration & development",
+            "Custom ERP/CRM solutions",
+            "SaaS product development"
+        ]
+    },
+    {
+        "category": "Infrastructure & Networking Services",
+        "icon": "image/service/1.png",
+        "services": [
+            "Network setup & configuration (LAN/WAN)",
+            "Server setup and maintenance",
+            "Cloud infrastructure (AWS, Azure, GCP)",
+            "IT support and helpdesk",
+            "Data backup and disaster recovery",
+            "Cybersecurity services (firewalls, antivirus, security audits)",
+            "VPN configuration"
+        ]
+    },
+    {
+        "category": "Website & Digital Services",
+        "icon": "image/service/3.png",
+        "services": [
+            "Website design & development",
+            "E-commerce solutions (Shopify, WooCommerce, custom)",
+            "CMS development (WordPress, Joomla, Drupal)",
+            "Domain registration and hosting",
+            "SEO (Search Engine Optimization)",
+            "Website maintenance"
+        ]
+    },
+    {
+        "category": "Cloud & DevOps Services",
+        "icon": "image/service/4.png",
+        "services": [
+            "Cloud migration",
+            "CI/CD pipeline setup",
+            "Docker & Kubernetes orchestration",
+            "Serverless architecture setup",
+            "DevOps consulting"
+        ]
+    },
+    {
+        "category": "Cybersecurity Services",
+        "icon": "image/service/5.png",
+        "services": [
+            "Security audits & penetration testing",
+            "Endpoint protection",
+            "Email security & spam filtering",
+            "Network security monitoring",
+            "Compliance (GDPR, HIPAA, etc.)"
+        ]
+    },
+    {
+        "category": "Data Services",
+        "icon": "image/service/6.png",
+        "services": [
+            "Data analytics & visualization (Power BI, Tableau)",
+            "Big data solutions",
+            "Business intelligence",
+            "Database management",
+            "Data migration & ETL",
+            "Machine learning / AI solutions"
+        ]
+    },
+    {
+        "category": "Digital Marketing & Branding",
+        "icon": "image/service/7.png",
+        "services": [
+            "Social media management",
+            "PPC Advertising (Google Ads, Facebook Ads)",
+            "Email marketing",
+            "Content creation",
+            "Online reputation management"
+        ]
+    },
+    {
+        "category": "IT Training & Consultancy",
+        "icon": "image/service/8.png",
+        "services": [
+            "Programming language training (Python, Java, PHP, etc.)",
+            "Web and mobile app development bootcamps",
+            "Cloud computing courses",
+            "Cybersecurity training",
+            "Career consultancy in IT"
+        ]
+    }
+]

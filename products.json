@@ -1,0 +1,73 @@
+[
+    
+    {
+        "title": "School Management Software",
+        "features": [
+            "Student information system",
+            "Class scheduling",
+            "Exam results & report cards",
+            "Parent-teacher communication"
+        ],
+        "image": "image/product/5.png"
+    },
+    {
+        "title": "Smart Inventory System",
+        "features": [
+            "Real-time stock tracking",
+            "Barcode scanning",
+            "Multi-warehouse support",
+            "Low stock alerts"
+        ],
+        "image": "image/product/1.png"
+    },
+    {
+        "title": "HR & Payroll Management",
+        "features": [
+            "Employee attendance tracking",
+            "Automatic salary generation",
+            "Tax & compliance management",
+            "Leave & holiday calendar"
+        ],
+        "image": "image/product/6.png"
+    },
+    {
+        "title": "E-Commerce Website",
+        "features": [
+            "Customizable storefront",
+            "Payment gateway integration",
+            "Product reviews and ratings",
+            "Order and shipping management"
+        ],
+        "image": "image/product/3.png"
+    },
+    {
+        "title": "Clinic Appointment System",
+        "features": [
+            "Doctor availability calendar",
+            "Online appointment booking",
+            "SMS/email reminders",
+            "Prescription & report storage"
+        ],
+        "image": "image/product/4.png"
+    },
+     {
+      "title": "Visitor Management System",
+      "features": [
+        "QR code visitor pass",
+        "Real-time entry log",
+        "Tenant-wise visitor logs",
+        "Photo capture & ID verification"
+      ],
+      "image": "image/product/2.png"
+    },
+    {
+      "title": "Flat Management System",
+      "features": [
+        "Tenant management",
+        "Utility bill tracking",
+        "Maintenance request handling",
+        "Monthly rent and dues summary"
+      ],
+      "image": "image/product/7.png"
+    }
+]
